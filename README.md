@@ -12,3 +12,8 @@ python3 cleanrl/pf4.py \
     --total-timesteps 1000000
 ```
 3. models are saved in `/runs/`
+
+
+
+[Research Paper](https://ishwargov.github.io/Portfolio_RL_Camera_Ready.pdf)
+`Ishwar Govind , Jerry John Thomas, Chandrashekar Lakshminarayan`
